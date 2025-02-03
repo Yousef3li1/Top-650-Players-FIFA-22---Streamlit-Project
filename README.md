@@ -35,7 +35,7 @@ The dataset contains the following player attributes:
 
 The dataset is stored in `Top_650_FIFA.csv`.
 
-## 🚀 Installation and Setup
+
 
 ## 📸 Screenshots
 
